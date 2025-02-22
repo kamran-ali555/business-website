@@ -328,11 +328,11 @@ function App() {
                 </li>
                 <li className="flex items-center text-gray-400">
                   <Phone className="h-5 w-5 mr-2" />
-                  (555) 123-4567
+                  +92 3554302895
                 </li>
                 <li className="flex items-center text-gray-400">
                   <MapPin className="h-5 w-5 mr-2" />
-                  123 Business St, Suite 100
+                  123 Business
                 </li>
               </ul>
             </div>
